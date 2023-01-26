@@ -1,0 +1,57 @@
+p{
+  color: black;
+  font-family: "DejaVu Sans";
+  font-size: 18px;
+}
+button{
+  color: red;
+  padding: 15px;
+  text-align: center;
+  font-size: 16px;
+  background-color: #000000;
+  border: 0;
+  margin: 20px;
+}
+td,th{
+  border: 2px solid red ;
+  font-family: "DejaVu Sans";
+  padding: 10px;
+  text-align: center;
+  color: blue;
+}
+th{
+  color: black;
+  font-family: KacstPoster;
+  alignment: center;
+  border: 3px double red;
+  border-radius: 10px;
+}
+table{
+  width: 80%;
+  border-collapse: collapse;
+  margin: 10px;
+  text-align: center;
+  background-color: bisque;
+}
+ul,ol{
+  color: black;
+  font-family: C059;
+  font-size: 18;
+  alignment: left;
+  margin: 18px;
+}
+li{
+  color: black;
+}
+a{
+  color: blueviolet;
+}
+.Cars,.fruits,.Latin,.Schools{
+  width: 100%;
+  font-family: "DejaVu Sans";
+  font-size: 22px;
+  margin: 18px;
+}
+
+
+
